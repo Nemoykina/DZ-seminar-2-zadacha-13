@@ -1,0 +1,15 @@
+D:\Users\Ma3rs\Desktop\test folder\Дом зад с#2 семинар-13-зад\bin\Debug\net6.0\Дом зад с#2 семинар-13-зад.exe
+D:\Users\Ma3rs\Desktop\test folder\Дом зад с#2 семинар-13-зад\bin\Debug\net6.0\Дом зад с#2 семинар-13-зад.deps.json
+D:\Users\Ma3rs\Desktop\test folder\Дом зад с#2 семинар-13-зад\bin\Debug\net6.0\Дом зад с#2 семинар-13-зад.runtimeconfig.json
+D:\Users\Ma3rs\Desktop\test folder\Дом зад с#2 семинар-13-зад\bin\Debug\net6.0\Дом зад с#2 семинар-13-зад.dll
+D:\Users\Ma3rs\Desktop\test folder\Дом зад с#2 семинар-13-зад\bin\Debug\net6.0\Дом зад с#2 семинар-13-зад.pdb
+D:\Users\Ma3rs\Desktop\test folder\Дом зад с#2 семинар-13-зад\obj\Debug\net6.0\Дом зад с#2 семинар-13-зад.csproj.AssemblyReference.cache
+D:\Users\Ma3rs\Desktop\test folder\Дом зад с#2 семинар-13-зад\obj\Debug\net6.0\Дом зад с#2 семинар-13-зад.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ma3rs\Desktop\test folder\Дом зад с#2 семинар-13-зад\obj\Debug\net6.0\Дом зад с#2 семинар-13-зад.AssemblyInfoInputs.cache
+D:\Users\Ma3rs\Desktop\test folder\Дом зад с#2 семинар-13-зад\obj\Debug\net6.0\Дом зад с#2 семинар-13-зад.AssemblyInfo.cs
+D:\Users\Ma3rs\Desktop\test folder\Дом зад с#2 семинар-13-зад\obj\Debug\net6.0\Дом зад с#2 семинар-13-зад.csproj.CoreCompileInputs.cache
+D:\Users\Ma3rs\Desktop\test folder\Дом зад с#2 семинар-13-зад\obj\Debug\net6.0\Дом зад с#2 семинар-13-зад.dll
+D:\Users\Ma3rs\Desktop\test folder\Дом зад с#2 семинар-13-зад\obj\Debug\net6.0\refint\Дом зад с#2 семинар-13-зад.dll
+D:\Users\Ma3rs\Desktop\test folder\Дом зад с#2 семинар-13-зад\obj\Debug\net6.0\Дом зад с#2 семинар-13-зад.pdb
+D:\Users\Ma3rs\Desktop\test folder\Дом зад с#2 семинар-13-зад\obj\Debug\net6.0\Дом зад с#2 семинар-13-зад.genruntimeconfig.cache
+D:\Users\Ma3rs\Desktop\test folder\Дом зад с#2 семинар-13-зад\obj\Debug\net6.0\ref\Дом зад с#2 семинар-13-зад.dll
